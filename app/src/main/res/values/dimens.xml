@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_top">20dp</dimen>
+    <dimen name="elevation">5dp</dimen>
+    <dimen name="margintop">6dp</dimen>
+    <dimen name="margintop_edt">55dp</dimen>
+    <dimen name="textsize">16sp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="margin_right">15dp</dimen>
+    <dimen name="margin_top_search">60dp</dimen>
+</resources>
